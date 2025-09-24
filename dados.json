@@ -1,0 +1,20 @@
+{
+  "funcionario": [
+    {
+      "id": "2",
+      "nome": "Natalia",
+      "cargo": "Enfermeira",
+      "setor": "Emergência",
+      "turno": "Matutino",
+      "salario": 5000.00
+    },
+    {
+      "id": "1",
+      "nome": "João",
+      "cargo": "Administrador",
+      "setor": "Administração",
+      "turno": "Matutino",
+      "salario": 3000.00
+    }
+  ]
+}
