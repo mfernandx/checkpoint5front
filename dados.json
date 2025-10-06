@@ -6,7 +6,7 @@
       "cargo": "Enfermeira",
       "setor": "Emergência",
       "turno": "Matutino",
-      "salario": 5000.00
+      "salario": 5000
     },
     {
       "id": "1",
@@ -14,7 +14,7 @@
       "cargo": "Administrador",
       "setor": "Administração",
       "turno": "Matutino",
-      "salario": 3000.00
+      "salario": 3000
     }
   ]
 }
