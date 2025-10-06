@@ -1,7 +1,6 @@
-export default function Formulario(){
+export default function Rodape(){
     return(
         <>
         </>
     )
-
 }
